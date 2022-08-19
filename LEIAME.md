@@ -1,0 +1,1 @@
+Essa e a versão do README.md em portugês

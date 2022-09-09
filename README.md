@@ -1,3 +1,1 @@
-Esse e o README.md do projeto
-
-For de version on portuguese, searsh in google
+Olá, este é meu github, no presente momento ainda estou aprendendo a usar a ferramenta, entretanto, não se assuste se estiver bagunçado!
